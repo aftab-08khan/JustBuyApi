@@ -1,107 +1,109 @@
-export const AllCategories = [
-  {
-    title: "Men's Wear",
-    img: "https://example.com/images/menswear.jpg",
-    link: "menswear",
-  },
-  {
-    title: "Women's Wear",
-    img: "https://example.com/images/womenswear.jpg",
-    link: "womenswear",
-  },
-  {
-    title: "Kids' Wear",
-    img: "https://example.com/images/kidswear.jpg",
-    link: "kidswear",
-  },
-  {
-    title: "Accessories",
-    img: "https://example.com/images/accessories.jpg",
-    link: "accessories",
-  },
-  {
-    title: "Footwear",
-    img: "https://example.com/images/footwear.jpg",
-    link: "footwear",
-  },
-  {
-    title: "Shoes",
-    img: "https://example.com/images/shoes.jpg",
-    link: "shoes",
-  },
-  {
-    title: "Home and Living",
-    img: "https://example.com/images/homeandliving.jpg",
-    link: "homeandliving",
-  },
-  {
-    title: "Beauty Products",
-    img: "https://example.com/images/beautyproducts.jpg",
-    link: "beautyproducts",
-  },
-  {
-    title: "Electronics",
-    img: "https://example.com/images/electronics.jpg",
-    link: "electronics",
-  },
-  {
-    title: "Mobile Phones",
-    img: "https://example.com/images/mobilephones.jpg",
-    link: "mobilephones",
-  },
-  {
-    title: "Laptops",
-    img: "https://example.com/images/laptops.jpg",
-    link: "laptops",
-  },
-  {
-    title: "Groceries",
-    img: "https://example.com/images/groceries.jpg",
-    link: "groceries",
-  },
-  {
-    title: "Books",
-    img: "https://example.com/images/books.jpg",
-    link: "books",
-  },
-  {
-    title: "Sports Equipment",
-    img: "https://example.com/images/sports.jpg",
-    link: "sports",
-  },
-  {
-    title: "Toys and Games",
-    img: "https://example.com/images/toys.jpg",
-    link: "toys",
-  },
-  {
-    title: "Pet Supplies",
-    img: "https://example.com/images/pets.jpg",
-    link: "petsupplies",
-  },
-  {
-    title: "Health and Wellness",
-    img: "https://example.com/images/health.jpg",
-    link: "health",
-  },
-  {
-    title: "Furniture",
-    img: "https://example.com/images/furniture.jpg",
-    link: "furniture",
-  },
-  {
-    title: "Stationery",
-    img: "https://example.com/images/stationery.jpg",
-    link: "stationery",
-  },
-  {
-    title: "Musical Instruments",
-    img: "https://example.com/images/music.jpg",
-    link: "music",
-  },
-  {
-    title: "Travel and Luggage",
-    img: "https://example.com/images/travel.jpg",
-    link: "travel",
-  }
-];
+{
+  "AllCategories": [
+    {
+      "title": "Men's Wear",
+      "img": "https://example.com/images/menswear.jpg",
+      "link": "menswear"
+    },
+    {
+      "title": "Women's Wear",
+      "img": "https://example.com/images/womenswear.jpg",
+      "link": "womenswear"
+    },
+    {
+      "title": "Kids' Wear",
+      "img": "https://example.com/images/kidswear.jpg",
+      "link": "kidswear"
+    },
+    {
+      "title": "Accessories",
+      "img": "https://example.com/images/accessories.jpg",
+      "link": "accessories"
+    },
+    {
+      "title": "Footwear",
+      "img": "https://example.com/images/footwear.jpg",
+      "link": "footwear"
+    },
+    {
+      "title": "Shoes",
+      "img": "https://example.com/images/shoes.jpg",
+      "link": "shoes"
+    },
+    {
+      "title": "Home and Living",
+      "img": "https://example.com/images/homeandliving.jpg",
+      "link": "homeandliving"
+    },
+    {
+      "title": "Beauty Products",
+      "img": "https://example.com/images/beautyproducts.jpg",
+      "link": "beautyproducts"
+    },
+    {
+      "title": "Electronics",
+      "img": "https://example.com/images/electronics.jpg",
+      "link": "electronics"
+    },
+    {
+      "title": "Mobile Phones",
+      "img": "https://example.com/images/mobilephones.jpg",
+      "link": "mobilephones"
+    },
+    {
+      "title": "Laptops",
+      "img": "https://example.com/images/laptops.jpg",
+      "link": "laptops"
+    },
+    {
+      "title": "Groceries",
+      "img": "https://example.com/images/groceries.jpg",
+      "link": "groceries"
+    },
+    {
+      "title": "Books",
+      "img": "https://example.com/images/books.jpg",
+      "link": "books"
+    },
+    {
+      "title": "Sports Equipment",
+      "img": "https://example.com/images/sports.jpg",
+      "link": "sports"
+    },
+    {
+      "title": "Toys and Games",
+      "img": "https://example.com/images/toys.jpg",
+      "link": "toys"
+    },
+    {
+      "title": "Pet Supplies",
+      "img": "https://example.com/images/pets.jpg",
+      "link": "petsupplies"
+    },
+    {
+      "title": "Health and Wellness",
+      "img": "https://example.com/images/health.jpg",
+      "link": "health"
+    },
+    {
+      "title": "Furniture",
+      "img": "https://example.com/images/furniture.jpg",
+      "link": "furniture"
+    },
+    {
+      "title": "Stationery",
+      "img": "https://example.com/images/stationery.jpg",
+      "link": "stationery"
+    },
+    {
+      "title": "Musical Instruments",
+      "img": "https://example.com/images/music.jpg",
+      "link": "music"
+    },
+    {
+      "title": "Travel and Luggage",
+      "img": "https://example.com/images/travel.jpg",
+      "link": "travel"
+    }
+  ]
+}
