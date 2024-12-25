@@ -1,0 +1,164 @@
+{
+  "trendingNow": [
+    {
+      "heading": "In the Spotlight",
+      "categories": [
+        {
+          "category": "New on JustBuy",
+          "image": "https://i.pinimg.com/736x/a6/35/0d/a6350dd4e748ee544dbc19d5c88d26cd.jpg",
+          "link": "new-on-justbuy"
+        },
+        {
+          "category": "Winter Edition",
+          "image": "https://i.pinimg.com/474x/6a/6e/5a/6a6e5aa6875d9eed663f6408b61e8681.jpg",
+          "link": "winter-edition"
+        },
+        {
+          "category": "Wedding",
+          "image": "https://i.pinimg.com/236x/24/7c/df/247cdfbee889a5b2cb00a5a833f17bbb.jpg",
+          "link": "wedding"
+        },
+        {
+          "category": "Christmas",
+          "image": "https://i.pinimg.com/236x/00/99/1f/00991f3e7ccab58292640a4180143ee9.jpg",
+          "link": "christmas"
+        },
+        {
+          "category": "Party Store",
+          "image": "https://i.pinimg.com/236x/00/61/ef/0061ef7fc7fe386815144a9abe14f5fa.jpg",
+          "link": "party-store"
+        }
+      ]
+    },
+    {
+      "heading": "Trending Brands of Fashion",
+      "categories": [
+        {
+          "category": "Gucci",
+          "image": "https://i.pinimg.com/236x/d7/b0/4f/d7b04fe29db5b8bf867b0e8aabcd20ff.jpg",
+          "link": "gucci"
+        },
+        {
+          "category": "Louis Vuitton",
+          "image": "https://i.pinimg.com/236x/be/d6/e3/bed6e343c7baf765e65887588f49fe92.jpg",
+          "link": "louis-vuitton"
+        },
+        {
+          "category": "Prada",
+          "image": "https://i.pinimg.com/736x/5e/38/03/5e3803becc34c6202a3eb527e25b565d.jpg",
+          "link": "prada"
+        },
+        {
+          "category": "Chanel",
+          "image": "https://i.pinimg.com/736x/f2/05/68/f205680de460975cf0d2abebd3a4acde.jpg",
+          "link": "chanel"
+        },
+        {
+          "category": "Versace",
+          "image": "https://i.pinimg.com/236x/4b/1f/74/4b1f747653293fd3aa1c80120d3df625.jpg",
+          "link": "versace"
+        },
+        {
+          "category": "Snitch",
+          "image": "https://i.pinimg.com/236x/d2/6e/f1/d26ef119ca501c8c7b900d3eb36da5e3.jpg",
+          "link": "snitch"
+        },
+        {
+          "category": "H&M",
+          "image": "https://i.pinimg.com/236x/57/7e/07/577e0712b26a7f9ab959a9a0f44148c4.jpg",
+          "link": "hm"
+        },
+        {
+          "category": "Zara",
+          "image": "https://i.pinimg.com/736x/1a/ef/52/1aef5201621345d9a9dd1a6ae50462b9.jpg",
+          "link": "zara"
+        }
+      ]
+    },
+    {
+      "heading": "Trending Shoes & Accessories Brands",
+      "categories": [
+        {
+          "category": "Nike",
+          "image": "https://i.pinimg.com/236x/3a/55/73/3a55735d5a1c8f35d72997e0b61ea20c.jpg",
+          "link": "nike"
+        },
+        {
+          "category": "Adidas",
+          "image": "https://i.pinimg.com/236x/8b/c0/bc/8bc0bc9e12b8fe4bcd6bd07c270afcec.jpg",
+          "link": "adidas"
+        },
+        {
+          "category": "Puma",
+          "image": "https://i.pinimg.com/236x/c3/74/78/c37478cc6c657fe11cb4af5f5764fb9e.jpg",
+          "link": "puma"
+        },
+        {
+          "category": "Reebok",
+          "image": "https://i.pinimg.com/236x/e4/78/b4/e478b4a6415d0d0d6608d5b5560165f4.jpg",
+          "link": "reebok"
+        },
+        {
+          "category": "Skechers",
+          "image": "https://i.pinimg.com/236x/94/a9/1a/94a91a5aa1b8e1d23c7d4c01a6b7541e.jpg",
+          "link": "skechers"
+        },
+        {
+          "category": "Ray-Ban",
+          "image": "https://i.pinimg.com/236x/cb/7d/d1/cb7dd109945429d8dbe498b57f237bdf.jpg",
+          "link": "ray-ban"
+        },
+        {
+          "category": "Oakley",
+          "image": "https://i.pinimg.com/236x/f5/c1/94/f5c19452a6378b369903e692c3bb3692.jpg",
+          "link": "oakley"
+        },
+        {
+          "category": "Fossil",
+          "image": "https://i.pinimg.com/236x/68/33/e9/6833e9d7843d81b12cef443b3748cbb3.jpg",
+          "link": "fossil"
+        },
+        {
+          "category": "Tissot",
+          "image": "https://i.pinimg.com/236x/e8/3e/0a/e83e0af814e6ba53b1f83c3173ecf827.jpg",
+          "link": "tissot"
+        },
+        {
+          "category": "Michael Kors",
+          "image": "https://i.pinimg.com/236x/1c/4d/3f/1c4d3f06882cdd8a6dea1d07239e69a6.jpg",
+          "link": "michael-kors"
+        }
+      ]
+    },
+    {
+      "heading": "Trending Electronic Brands",
+      "categories": [
+        {
+          "category": "Apple",
+          "image": "https://i.pinimg.com/236x/60/6b/c0/606bc0717982547e555a514b479365a0.jpg",
+          "link": "apple"
+        },
+        {
+          "category": "Samsung",
+          "image": "https://i.pinimg.com/236x/f8/e3/4a/f8e34a4763987dcab1c15888cb0830d0.jpg",
+          "link": "samsung"
+        },
+        {
+          "category": "Sony",
+          "image": "https://i.pinimg.com/236x/17/09/b8/1709b8e482eec0862ee62804e42766fa.jpg",
+          "link": "sony"
+        },
+        {
+          "category": "LG",
+          "image": "https://i.pinimg.com/236x/a1/c2/4c/a1c24c4c748ad40933218a8e78b53d5f.jpg",
+          "link": "lg"
+        },
+        {
+          "category": "Bose",
+          "image": "https://i.pinimg.com/236x/1e/d8/97/1ed897e13e4faa97532831e1867e93bb.jpg",
+          "link": "bose"
+        }
+      ]
+    }
+  ]
+}
