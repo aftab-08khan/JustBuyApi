@@ -2,107 +2,98 @@
   "AllCategories": [
     {
       "title": "Men's Wear",
-      "img": "https://images.unsplash.com/photo-1581381685617-4dc270458aa6?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG1lbnN3ZWFyc3xlbnwwfHwwfHx8MA%3D%3D",
+      "img": "https://i.pinimg.com/236x/99/17/8f/99178f829dc7d9a73aa80e41b600c8d4.jpg",
       "link": "menswear"
     },
     {
       "title": "Women's Wear",
-      "img": "https://example.com/images/womenswear.jpg",
+      "img": "https://i.pinimg.com/236x/1c/1d/5c/1c1d5cadf8315b1c4f7a2c168e2fe548.jpg",
       "link": "womenswear"
     },
     {
       "title": "Kids' Wear",
-      "img": "https://example.com/images/kidswear.jpg",
+      "img": "https://i.pinimg.com/236x/cb/3a/72/cb3a724702a9f7120cb84a9ea467d021.jpg",
       "link": "kidswear"
     },
     {
       "title": "Accessories",
-      "img": "https://example.com/images/accessories.jpg",
+      "img": "https://i.pinimg.com/236x/f4/96/20/f496209cab01d85a80a84b785068c007.jpg",
       "link": "accessories"
     },
     {
       "title": "Footwear",
-      "img": "https://example.com/images/footwear.jpg",
+      "img": "https://i.pinimg.com/236x/88/8b/ba/888bba8991382d26024ccf5519b5f7b9.jpg",
       "link": "footwear"
     },
     {
       "title": "Shoes",
-      "img": "https://example.com/images/shoes.jpg",
+      "img": "https://i.pinimg.com/236x/0a/8a/d5/0a8ad5653126ccbd105027f876b58b6d.jpg",
       "link": "shoes"
     },
     {
       "title": "Home and Living",
-      "img": "https://example.com/images/homeandliving.jpg",
+      "img": "https://i.pinimg.com/236x/9b/3a/4f/9b3a4ffa57dae386daa4ea3a3dd09366.jpg",
       "link": "homeandliving"
     },
     {
       "title": "Beauty Products",
-      "img": "https://example.com/images/beautyproducts.jpg",
+      "img": "https://i.pinimg.com/236x/92/08/25/92082556ec2d9be5f6603e586bdaefa6.jpg",
       "link": "beautyproducts"
     },
     {
       "title": "Electronics",
-      "img": "https://example.com/images/electronics.jpg",
+      "img": "https://i.pinimg.com/236x/8c/db/e1/8cdbe123010c380e20f264a8fdd57938.jpg",
       "link": "electronics"
     },
     {
       "title": "Mobile Phones",
-      "img": "https://example.com/images/mobilephones.jpg",
+      "img": "https://i.pinimg.com/474x/85/b7/05/85b7056de8a347a60345b57d070cdd18.jpg",
       "link": "mobilephones"
     },
     {
       "title": "Laptops",
-      "img": "https://example.com/images/laptops.jpg",
+      "img": "https://i.pinimg.com/474x/b2/e8/79/b2e8793507ed5755b8d76201743b7a9e.jpg",
       "link": "laptops"
     },
     {
       "title": "Groceries",
-      "img": "https://example.com/images/groceries.jpg",
+      "img": "https://i.pinimg.com/236x/14/ef/a0/14efa01bdf95649ecb69720f8c2fa214.jpg",
       "link": "groceries"
     },
     {
       "title": "Books",
-      "img": "https://example.com/images/books.jpg",
+      "img": "https://i.pinimg.com/236x/3a/dc/ff/3adcff7a670cde2ea2bb8ceadb6cceac.jpg",
       "link": "books"
     },
     {
       "title": "Sports Equipment",
-      "img": "https://example.com/images/sports.jpg",
+      "img": "https://i.pinimg.com/236x/b8/78/76/b8787642e3998c87a4a9504646f94099.jpg",
       "link": "sports"
     },
     {
       "title": "Toys and Games",
-      "img": "https://example.com/images/toys.jpg",
+      "img": "https://i.pinimg.com/236x/a5/dc/cf/a5dccf8760a138fae86ccba5644fe5e6.jpg",
       "link": "toys"
     },
-    {
-      "title": "Pet Supplies",
-      "img": "https://example.com/images/pets.jpg",
-      "link": "petsupplies"
-    },
-    {
-      "title": "Health and Wellness",
-      "img": "https://example.com/images/health.jpg",
-      "link": "health"
-    },
+   
     {
       "title": "Furniture",
-      "img": "https://example.com/images/furniture.jpg",
+      "img": "https://i.pinimg.com/236x/51/be/ea/51beea5aaf80d3743ba1a0878cbdebe2.jpg",
       "link": "furniture"
     },
     {
       "title": "Stationery",
-      "img": "https://example.com/images/stationery.jpg",
+      "img": "https://i.pinimg.com/236x/a1/27/2f/a1272f753e31ab7be225efaf7d0b85d6.jpg",
       "link": "stationery"
     },
     {
       "title": "Musical Instruments",
-      "img": "https://example.com/images/music.jpg",
+      "img": "https://i.pinimg.com/474x/3f/78/56/3f785628637cadc6d422805fa2524450.jpg",
       "link": "music"
     },
     {
       "title": "Travel and Luggage",
-      "img": "https://example.com/images/travel.jpg",
+      "img": "https://i.pinimg.com/236x/3d/23/f1/3d23f1ce43fbb20601dd3fd6a481c80e.jpg",
       "link": "travel"
     }
   ]
