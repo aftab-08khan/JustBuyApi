@@ -1,0 +1,121 @@
+{
+  "womenswear": [
+    {
+      "heading": "Winter Must Haves",
+      "categories": [
+        {
+          "category": "Sweaters",
+          "image": "https://i.pinimg.com/236x/3e/80/9c/3e809c7318ffe50a67f4bf9cb6b5e63b.jpg",
+          "link": "sweaters"
+        },
+        {
+          "category": "Jackets",
+          "image": "https://i.pinimg.com/236x/1b/5d/52/1b5d52900c139eb1b6e1d009062aa311.jpg",
+          "link": "jackets"
+        },
+        {
+          "category": "Coats",
+          "image": "https://i.pinimg.com/236x/b1/de/d4/b1ded42dc635b449fe93c4ad1a531a03.jpg",
+          "link": "coats"
+        },
+        {
+          "category": "Thermal Wear",
+          "image": "https://i.pinimg.com/236x/7f/d4/4d/7fd44d78787e23c674b08f2b5990972e.jpg",
+          "link": "thermal-wear"
+        },
+        {
+          "category": "Scarves & Gloves",
+          "image": "https://i.pinimg.com/474x/6e/ee/67/6eee676a16f42d05f2b3c2edc52b625b.jpg",
+          "link": "scarves-gloves"
+        }
+      ]
+    },
+    {
+      "heading": "Casual Wear",
+      "categories": [
+        {
+          "category": "Tops",
+          "image": "https://i.pinimg.com/236x/e1/44/e9/e144e96aea39c79f01fd62a1fef482da.jpg",
+          "link": "tops"
+        },
+        {
+          "category": "Jeans",
+          "image": "https://i.pinimg.com/236x/03/e4/df/03e4df2dfb966162852ebef73261af8f.jpg",
+          "link": "jeans"
+        },
+        {
+          "category": "Leggings",
+          "image": "https://i.pinimg.com/236x/49/b8/59/49b8596b361a7b38291f27e270778e44.jpg",
+          "link": "leggings"
+        },
+        {
+          "category": "Skirts",
+          "image": "https://i.pinimg.com/236x/0b/56/56/0b56561530476c62b7ceccb90484ea55.jpg",
+          "link": "skirts"
+        },
+       
+      ]
+    },
+    {
+      "heading": "Work Wear",
+      "categories": [
+        {
+          "category": "Blazers",
+          "image": "https://i.pinimg.com/236x/1f/4e/f3/1f4ef346023ccbdf8f48e7aa8b0ee2fd.jpg",
+          "link": "blazers"
+        },
+        {
+          "category": "Formal Shirts",
+          "image": "https://i.pinimg.com/236x/3b/63/85/3b6385c677cf715dea9df4507bfabe0a.jpg",
+          "link": "formal-shirts"
+        },
+        {
+          "category": "Trousers",
+          "image": "https://i.pinimg.com/236x/27/27/e0/2727e0c85363af2f2431a93044f03ecc.jpg",
+          "link": "trousers"
+        },
+        {
+          "category": "Dresses",
+          "image": "https://i.pinimg.com/236x/c4/bb/41/c4bb41ab4e14834dfd7dc4683b8c3cb7.jpg",
+          "link": "dresses"
+        },
+        {
+          "category": "Heels",
+          "image": "https://i.pinimg.com/236x/5f/00/b8/5f00b8a7c526df824e34c1cfee053abd.jpg",
+          "link": "heels"
+        }
+      ]
+    },
+    {
+      "heading": "Occasion Wear",
+      "categories": [
+        {
+          "category": "Party Dresses",
+          "image": "https://i.pinimg.com/236x/e6/d9/63/e6d9634c73265bcb8e5ee8c55ea54684.jpg",
+          "link": "party-dresses"
+        },
+        {
+          "category": "Gowns",
+          "image": "https://i.pinimg.com/236x/19/18/4e/19184e9d688d79fddd9e471bf51323ec.jpg",
+          "link": "gowns"
+        },
+        {
+          "category": "Sarees",
+          "image": "https://i.pinimg.com/474x/fe/28/47/fe28471646fdd20e57c6c8fdc0afcc3f.jpg",
+          "link": "sarees"
+        },
+        {
+          "category": "Lehengas",
+          "image": "https://i.pinimg.com/236x/64/67/11/646711cf3344158f115e5ac77502807d.jpg",
+          "link": "lehengas"
+        },
+        {
+          "category": "Jewelry",
+          "image": "https://i.pinimg.com/236x/9a/eb/c8/9aebc8d3bc3f95bdcaa7a594fc12d2e0.jpg",
+          "link": "jewelry"
+        }
+      ]
+    }
+  
+  ]
+}
