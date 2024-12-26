@@ -2,28 +2,28 @@
   {
     "id": 1,
     "title": "Jeans",
-    "image": "MensJeans",
+    "image": "https://i.pinimg.com/236x/67/97/a1/6797a1cd034caec2da437db5defe4e0b.jpg",
     "category": "Men's Wear",
     "link": "mens-jeans"
   },
   {
     "id": 2,
     "title": "Shirts",
-    "image": "https://images.unsplash.com/photo-1653055645302-d88b0abd4e99?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1lbnMlMjAlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D",
+    "image": "https://i.pinimg.com/236x/ba/b4/75/bab47539ae48194d29160e6794e90ab9.jpg",
     "category": "Men's Wear",
     "link": "mens-shirts"
   },
   {
     "id": 3,
     "title": "Dresses",
-    "image": "https://images.unsplash.com/photo-1733731402869-57e0cce24aea?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fFdvbWVuJ3MlMjBEcmVzc2VzfGVufDB8fDB8fHww",
+    "image": "https://i.pinimg.com/474x/8d/3e/e5/8d3ee5d4d63b061c0743d138dc0e12bc.jpg",
     "category": "Women's Wear",
     "link": "womens-dresses"
   },
   {
     "id": 4,
     "title": "Tops",
-    "image": "https://images.unsplash.com/photo-1530981785497-a62037228fe9?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8V29tZW4ncyUyMFRvcHN8ZW58MHx8MHx8fDA%3D",
+    "image": "https://i.pinimg.com/236x/5d/a0/a0/5da0a0c79edffd2afce61fd1ac37e391.jpg",
     "category": "Women's Wear",
     "link": "womens-tops"
   },
