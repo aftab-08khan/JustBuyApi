@@ -4,42 +4,42 @@
       "heading": "Winter Must-Haves",
       "categories": [
         {
-          "title": "Sweaters",
+          "categroy": "Sweaters",
           "img": "https://i.pinimg.com/236x/8f/c2/f1/8fc2f1fdf1ed788fc75a48edf914cb18.jpg",
           "link": "winter-sweaters"
         },
         {
-          "title": "Sweatshirts",
+          "categroy": "Sweatshirts",
           "img": "https://i.pinimg.com/236x/12/34/56/1234567890abcdef1234567890abcdef.jpg",
           "link": "winter-sweatshirts"
         },
         {
-          "title": "Coats",
+          "categroy": "Coats",
           "img": "https://i.pinimg.com/236x/23/45/67/234567890abcdef1234567890abcdef.jpg",
           "link": "winter-coats"
         },
         {
-          "title": "Thermal Wear",
+          "categroy": "Thermal Wear",
           "img": "https://i.pinimg.com/236x/34/56/78/34567890abcdef1234567890abcdef.jpg",
           "link": "winter-thermal"
         },
         {
-          "title": "Scarves & Mufflers",
+          "categroy": "Scarves & Mufflers",
           "img": "https://i.pinimg.com/236x/45/67/89/4567890abcdef1234567890abcdef12.jpg",
           "link": "winter-scarves"
         },
         {
-          "title": "Gloves & Mittens",
+          "categroy": "Gloves & Mittens",
           "img": "https://i.pinimg.com/236x/56/78/90/567890abcdef1234567890abcdef123.jpg",
           "link": "winter-gloves"
         },
         {
-          "title": "Beanies & Caps",
+          "categroy": "Beanies & Caps",
           "img": "https://i.pinimg.com/236x/67/89/01/67890abcdef1234567890abcdef1234.jpg",
           "link": "winter-beanies"
         },
         {
-          "title": "Boots",
+          "categroy": "Boots",
           "img": "https://i.pinimg.com/236x/78/90/12/7890abcdef1234567890abcdef12345.jpg",
           "link": "winter-boots"
         }
@@ -49,17 +49,17 @@
       "heading": "For Infants",
       "categories": [
         {
-          "title": "Onesies & Bodysuits",
+          "categroy": "Onesies & Bodysuits",
           "img": "https://i.pinimg.com/236x/01/23/45/0123456789abcdef0123456789abcdef.jpg",
           "link": "infants-onesies"
         },
         {
-          "title": "Baby Mittens & Socks",
+          "categroy": "Baby Mittens & Socks",
           "img": "https://i.pinimg.com/236x/12/34/56/1234567890abcdef1234567890abcdef.jpg",
           "link": "infants-mittens"
         },
         {
-          "title": "Warm Sleepwear",
+          "categroy": "Warm Sleepwear",
           "img": "https://i.pinimg.com/236x/23/45/67/234567890abcdef1234567890abcdef.jpg",
           "link": "infants-sleepwear"
         }
@@ -69,17 +69,17 @@
       "heading": "For Girls",
       "categories": [
         {
-          "title": "Cozy Dresses",
+          "categroy": "Cozy Dresses",
           "img": "https://i.pinimg.com/236x/34/56/78/34567890abcdef1234567890abcdef.jpg",
           "link": "girls-dresses"
         },
         {
-          "title": "Sweaters & Cardigans",
+          "categroy": "Sweaters & Cardigans",
           "img": "https://i.pinimg.com/236x/45/67/89/4567890abcdef1234567890abcdef12.jpg",
           "link": "girls-sweaters"
         },
         {
-          "title": "Jackets & Coats",
+          "categroy": "Jackets & Coats",
           "img": "https://i.pinimg.com/236x/56/78/90/567890abcdef1234567890abcdef123.jpg",
           "link": "girls-jackets"
         }
@@ -89,17 +89,17 @@
       "heading": "For Boys",
       "categories": [
         {
-          "title": "Warm Hoodies",
+          "categroy": "Warm Hoodies",
           "img": "https://i.pinimg.com/236x/67/89/01/67890abcdef1234567890abcdef1234.jpg",
           "link": "boys-hoodies"
         },
         {
-          "title": "Thermal Pants",
+          "categroy": "Thermal Pants",
           "img": "https://i.pinimg.com/236x/78/90/12/7890abcdef1234567890abcdef12345.jpg",
           "link": "boys-pants"
         },
         {
-          "title": "Puffer Jackets",
+          "categroy": "Puffer Jackets",
           "img": "https://i.pinimg.com/236x/89/01/23/890abcdef1234567890abcdef123456.jpg",
           "link": "boys-jackets"
         }
@@ -109,17 +109,17 @@
       "heading": "For Teens",
       "categories": [
         {
-          "title": "Stylish Hoodies",
+          "categroy": "Stylish Hoodies",
           "img": "https://i.pinimg.com/236x/90/12/34/9012abcdef1234567890abcdef1234567.jpg",
           "link": "teens-hoodies"
         },
         {
-          "title": "Winter Boots",
+          "categroy": "Winter Boots",
           "img": "https://i.pinimg.com/236x/01/23/45/0123456789abcdef0123456789abcdef8.jpg",
           "link": "teens-boots"
         },
         {
-          "title": "Layered Outfits",
+          "categroy": "Layered Outfits",
           "img": "https://i.pinimg.com/236x/12/34/56/1234567890abcdef1234567890abcdef9.jpg",
           "link": "teens-layered"
         }
