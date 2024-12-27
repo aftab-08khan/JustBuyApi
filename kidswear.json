@@ -30,17 +30,17 @@
         },
         {
           "category": "Gloves & Mittens",
-          "img": "https://i.pinimg.com/236x/56/78/90/567890abcdef1234567890abcdef123.jpg",
+          "img": "https://i.pinimg.com/236x/66/56/67/665667bfe59ccc760a3da76275628b80.jpg",
           "link": "winter-gloves"
         },
         {
           "category": "Beanies & Caps",
-          "img": "https://i.pinimg.com/236x/67/89/01/67890abcdef1234567890abcdef1234.jpg",
+          "img": "https://i.pinimg.com/236x/2d/5b/dd/2d5bdd8dca5beb4b2469c78b1f4af068.jpg",
           "link": "winter-beanies"
         },
         {
           "category": "Boots",
-          "img": "https://i.pinimg.com/236x/78/90/12/7890abcdef1234567890abcdef12345.jpg",
+          "img": "https://i.pinimg.com/236x/f1/d8/7f/f1d87fe58e03bae83e45075cb8a88593.jpg",
           "link": "winter-boots"
         }
       ]
@@ -50,17 +50,17 @@
       "categories": [
         {
           "category": "Onesies & Bodysuits",
-          "img": "https://i.pinimg.com/236x/01/23/45/0123456789abcdef0123456789abcdef.jpg",
+          "img": "https://i.pinimg.com/474x/a6/03/01/a60301d14729ff6e26fcf36d371692b2.jpg",
           "link": "infants-onesies"
         },
         {
           "category": "Baby Mittens & Socks",
-          "img": "https://i.pinimg.com/236x/12/34/56/1234567890abcdef1234567890abcdef.jpg",
+          "img": "https://i.pinimg.com/236x/18/e9/4a/18e94a8615e71a4d027eba1a3662cb9a.jpg",
           "link": "infants-mittens"
         },
         {
           "category": "Warm Sleepwear",
-          "img": "https://i.pinimg.com/236x/23/45/67/234567890abcdef1234567890abcdef.jpg",
+          "img": "https://i.pinimg.com/236x/3b/5f/d1/3b5fd1629a5d771229a9626879550bd8.jpg",
           "link": "infants-sleepwear"
         }
       ]
@@ -70,17 +70,17 @@
       "categories": [
         {
           "category": "Cozy Dresses",
-          "img": "https://i.pinimg.com/236x/34/56/78/34567890abcdef1234567890abcdef.jpg",
+          "img": "https://i.pinimg.com/236x/50/4e/d8/504ed87def6d0a454eda92fdc0925c94.jpg",
           "link": "girls-dresses"
         },
         {
           "category": "Sweaters & Cardigans",
-          "img": "https://i.pinimg.com/236x/45/67/89/4567890abcdef1234567890abcdef12.jpg",
+          "img": "https://i.pinimg.com/236x/51/a6/62/51a66260afd7dc9933b4c906f44675f6.jpg",
           "link": "girls-sweaters"
         },
         {
           "category": "Jackets & Coats",
-          "img": "https://i.pinimg.com/236x/56/78/90/567890abcdef1234567890abcdef123.jpg",
+          "img": "https://i.pinimg.com/236x/16/64/e0/1664e063f1ddc5d3fad87cb8a913007a.jpg",
           "link": "girls-jackets"
         }
       ]
@@ -90,17 +90,17 @@
       "categories": [
         {
           "category": "Warm Hoodies",
-          "img": "https://i.pinimg.com/236x/67/89/01/67890abcdef1234567890abcdef1234.jpg",
+          "img": "https://i.pinimg.com/236x/84/be/01/84be0115024781b66275e3a97476f46c.jpg",
           "link": "boys-hoodies"
         },
         {
           "category": "Thermal Pants",
-          "img": "https://i.pinimg.com/236x/78/90/12/7890abcdef1234567890abcdef12345.jpg",
+          "img": "https://i.pinimg.com/236x/1b/24/c0/1b24c065097acf2f12040065e9f4e3ba.jpg",
           "link": "boys-pants"
         },
         {
           "category": "Puffer Jackets",
-          "img": "https://i.pinimg.com/236x/89/01/23/890abcdef1234567890abcdef123456.jpg",
+          "img": "https://i.pinimg.com/236x/48/49/dc/4849dce5c06f689435956b3f05bebbf6.jpg",
           "link": "boys-jackets"
         }
       ]
@@ -110,17 +110,17 @@
       "categories": [
         {
           "category": "Stylish Hoodies",
-          "img": "https://i.pinimg.com/236x/90/12/34/9012abcdef1234567890abcdef1234567.jpg",
+          "img": "https://i.pinimg.com/236x/c9/40/5f/c9405fd82655fbc027f206934f946913.jpg",
           "link": "teens-hoodies"
         },
         {
           "category": "Winter Boots",
-          "img": "https://i.pinimg.com/236x/01/23/45/0123456789abcdef0123456789abcdef8.jpg",
+          "img": "https://i.pinimg.com/236x/3c/28/a4/3c28a40fc25d0d694eaa75d605b4ff4d.jpg",
           "link": "teens-boots"
         },
         {
           "category": "Layered Outfits",
-          "img": "https://i.pinimg.com/236x/12/34/56/1234567890abcdef1234567890abcdef9.jpg",
+          "img": "https://i.pinimg.com/236x/1b/39/8d/1b398dedb32b1a4b16a8ab3f2febd61f.jpg",
           "link": "teens-layered"
         }
       ]
