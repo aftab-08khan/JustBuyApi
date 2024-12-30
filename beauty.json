@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Foundation",
+    "image": "https://example.com/foundation.jpg",
+    "category": "Beauty Products",
+    "link": "foundation"
+  },
+  {
+    "id": 2,
+    "title": "Lipstick",
+    "image": "https://example.com/lipstick.jpg",
+    "category": "Beauty Products",
+    "link": "lipstick"
+  },
+  {
+    "id": 3,
+    "title": "Mascara",
+    "image": "https://example.com/mascara.jpg",
+    "category": "Beauty Products",
+    "link": "mascara"
+  },
+  {
+    "id": 4,
+    "title": "Face Cream",
+    "image": "https://example.com/face-cream.jpg",
+    "category": "Beauty Products",
+    "link": "face-cream"
+  },
+  {
+    "id": 5,
+    "title": "Nail Polish",
+    "image": "https://example.com/nail-polish.jpg",
+    "category": "Beauty Products",
+    "link": "nail-polish"
+  },
+  {
+    "id": 6,
+    "title": "Hair Oil",
+    "image": "https://example.com/hair-oil.jpg",
+    "category": "Beauty Products",
+    "link": "hair-oil"
+  },
+  {
+    "id": 7,
+    "title": "Perfume",
+    "image": "https://example.com/perfume.jpg",
+    "category": "Beauty Products",
+    "link": "perfume"
+  },
+  {
+    "id": 8,
+    "title": "Makeup Kit",
+    "image": "https://example.com/makeup-kit.jpg",
+    "category": "Beauty Products",
+    "link": "makeup-kit"
+  },
+  {
+    "id": 9,
+    "title": "Body Lotion",
+    "image": "https://example.com/body-lotion.jpg",
+    "category": "Beauty Products",
+    "link": "body-lotion"
+  },
+  {
+    "id": 10,
+    "title": "Face Wash",
+    "image": "https://example.com/face-wash.jpg",
+    "category": "Beauty Products",
+    "link": "face-wash"
+  }
+]
